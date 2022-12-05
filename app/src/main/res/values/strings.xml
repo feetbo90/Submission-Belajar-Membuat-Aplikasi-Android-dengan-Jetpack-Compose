@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SubmissionCompose</string>
+    <string name="search">Search</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_bookmark">Bookmark</string>
+    <string name="menu_profile">Profile</string>
+    <string name="hire_me">Hire me</string>
+    <string name="sex">Jenis Kelamin</string>
+    <string name="age">Umur</string>
+    <string name="description">Deskripsi</string>
+    <string name="email">Email</string>
+    <string name="back">Back</string>
+    <string name="my_name">Muhammad Iqbal Pradipta</string>
+    <string name="my_sex">Laki-Laki</string>
+    <string name="my_age">29</string>
+    <string name="my_description">I\'m a simple man</string>
+    <string name="my_email">mhdiqbalpradipta@gmail.com</string>
+    <string name="favorite">Favorite</string>
+    <string name="no_favorite">Not Favorite</string>
+
+</resources>
